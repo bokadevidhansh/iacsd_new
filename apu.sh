@@ -1,5 +1,2 @@
-<html>
-<h1>
-vidhansh
-</h1>
-</html>
+#!/bin/bash
+echo website hosting
