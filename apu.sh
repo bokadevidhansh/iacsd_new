@@ -1,2 +1,2 @@
 #!/bin/bash
-echo website hosting
+echo website hosting of vidh
